@@ -18,7 +18,6 @@ value
 1. r find a resource which can complete t as earliest time
 1. schedule t to r.
 1. end while
-![image](https://user-images.githubusercontent.com/34786046/95024194-2b3e4500-069f-11eb-88c9-182c6563877d.png)
 ## Testing
 Since for testing our algorithm we need lot of graphs . So it becomes
 very difficult to generate these graphs manually . So , we have
